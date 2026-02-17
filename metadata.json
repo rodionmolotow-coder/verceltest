@@ -1,0 +1,5 @@
+{
+  "name": "Gemini QuickStart",
+  "description": "A sleek, responsive chat application built to test Vercel deployment capabilities with the Gemini API.",
+  "requestFramePermissions": []
+}
